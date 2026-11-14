@@ -1,0 +1,6 @@
+Source,Possible Effect,Validation Needed
+Air density,Changes dynamic pressure and lift,Use actual operating altitude and temperature
+Aerofoil surface roughness,May change maximum lift and drag,Surface inspection or wind tunnel testing
+Reynolds number,Changes boundary layer behaviour,Use matching Reynolds number airfoil data
+Three-dimensional wing effects,Finite-wing lift differs from 2D airfoil data,Finite-wing analysis or CFD
+Flap installation,"Changes lift, drag and pitching moment",Test flap geometry and deflection

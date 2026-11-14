@@ -1,0 +1,11 @@
+Parameter,Value,Unit
+Aircraft Weight,117.72,N
+Cruise Dynamic Pressure,245.00000000000003,Pa
+Low Speed Dynamic Pressure,88.2,Pa
+Cruise Required CL,0.4004081632653061,-
+Low Speed Required CL,1.1122448979591837,-
+Cruise Reynolds Number,559158.7479038569,-
+Low Speed Reynolds Number,335495.2487423142,-
+Illustrative Reference CLmax,1.2,-
+Estimated Stall Speed,11.552895210946131,m/s
+Illustrative Lift Margin,7.312925170068023,%
